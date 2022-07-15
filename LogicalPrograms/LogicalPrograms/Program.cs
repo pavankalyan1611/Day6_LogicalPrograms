@@ -1,6 +1,5 @@
 ﻿using LogicalPrograms;
 
 
-PerfectNumber perfect = new PerfectNumber();
-perfect.Perfectnum();
-       
+PrimeNumber prime = new PrimeNumber();
+prime.primeNumber();       
