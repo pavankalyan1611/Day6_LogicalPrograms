@@ -1,5 +1,5 @@
 ﻿using LogicalPrograms;
 
 
-PrimeNumber prime = new PrimeNumber();
-prime.primeNumber();       
+ReverseNumber reverse = new ReverseNumber();
+reverse.reverseNum();
