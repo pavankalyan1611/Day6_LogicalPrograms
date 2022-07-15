@@ -1,4 +1,6 @@
 ﻿using LogicalPrograms;
 
-FibonacciSeries series = new FibonacciSeries();
-series.Fibonacci();
+
+PerfectNumber perfect = new PerfectNumber();
+perfect.Perfectnum();
+       
