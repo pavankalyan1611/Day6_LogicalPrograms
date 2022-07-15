@@ -1,5 +1,5 @@
 ﻿using LogicalPrograms;
 
 
-ReverseNumber reverse = new ReverseNumber();
-reverse.reverseNum();
+StopWatch duration= new StopWatch();
+duration.stopwatch();
